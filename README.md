@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reginaldnash
-- 👀 I’m interested in networking with Data Scientists.
-- 🌱 I’m currently learning Python & Machine Learning.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in networking with Bloockchain Dovelopment.
+- 🌱 I’m currently learning Python & HTML.
+- 💞️ I’m looking to collaborate on Blockchain dovelopers & members of the cryto currency space.
 - 📫 How to reach me 
 
 <!---
